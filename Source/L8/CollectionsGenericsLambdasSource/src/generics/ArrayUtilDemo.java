@@ -7,6 +7,8 @@ public class ArrayUtilDemo {
         Integer[] ages = {45, 12, 65};
         
         
+        
+        
         for (String friend : friends) {
             System.out.print(friend + ", "); //prints Peter, Paul, Mary, 
         }
