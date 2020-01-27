@@ -24,7 +24,8 @@ public class Main {
     //read the contents of the file into an array
     int[] days = FileParser.fillArray();
      
-    //print data from the file - there's nothing in element 0 of the array
+    
+    //print data from the file - there's nothing in element 0 of the array 
     for (int day : days) {
              System.out.print(day + " ");
     }
